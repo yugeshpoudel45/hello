@@ -1,0 +1,19 @@
+{
+  "name": "chai-with-node",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "meroKeyword"
+  ],
+  "author": "Yugesh Poudel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
